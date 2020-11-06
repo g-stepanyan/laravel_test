@@ -1,1 +1,2 @@
 # laravel_test
+A code quality is ok, despite there are some parts that need to refactor.It didnt write PSR-12 coding standards and need to be fixed. I will fix it at first and push it as refactor code.Also there are some variables and methods that can be optimized. It  will be optimized in the refactor code also.
